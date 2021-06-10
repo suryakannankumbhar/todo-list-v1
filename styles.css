@@ -147,7 +147,7 @@ select {
         flex-direction: column;
     }
     input {
-        max-width: 60%;
+        max-width: 55%;
     }
     .inputContainer {
         display: flex;
